@@ -1,8 +1,6 @@
 import Chart from "@/components/Chart.jsx";
 import ConfigMenu from "@/components/ConfigMenu";
 import ContextMenu from '@/components/ContextMenu.jsx';
-import Acknowledgements from '@/components/static/Acknowledgements.jsx';
-import FAQSection from '@/components/static/FAQSection.jsx';
 import Footer from '@/components/static/Footer.jsx';
 import '@/styles/ChartPage.css';
 import migrateLegacySharedNodeStates from '@/utils/migrateState';
