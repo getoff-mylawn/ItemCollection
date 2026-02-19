@@ -1,7 +1,5 @@
-import ChangelogPage from '@/pages/ChangelogPage.jsx';
 import ChartPage from '@/pages/ChartPage.jsx';
 import CustomizePage from '@/pages/CustomizePage.jsx';
-import FaqPage from '@/pages/FaqPage.jsx';
 import PrivacyPage from '@/pages/PrivacyPage.jsx';
 import '@/styles/chart.css';
 import '@/styles/theme.css';
